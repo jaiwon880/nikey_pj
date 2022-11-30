@@ -1,0 +1,14 @@
+.badge {
+  border-radius: 0;
+  border: 2px solid #405189;
+  width: 100px;
+  color: #405189;
+  text-align: center;
+  padding: 2px;
+  float: left;
+  margin-right: 10px;
+}
+
+.badge.badge-pill {
+  border-radius: 10rem;
+}
